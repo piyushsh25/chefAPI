@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    background-color: #ADD8E6;
+}
+textarea{
+    width: 90%;
+    display: block;
+    height: 10vh;
+    margin:1rem;
+    padding: 1rem;
+             
+}
+#txt-output{
+    border: 1px solid black;
+    height: 10vh;
+     width: 80%;
+     margin: 1rem;
+     padding:2rem;
+     background-color: white;
+     color: black;
+}
+h1{
+    margin-left: 10%;
+}
+
+#btn-translate{
+    margin-left: 10%;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+footer{
+    text-align: center;
+    padding: 20px 100px ;
+}
